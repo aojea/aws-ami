@@ -1,0 +1,8 @@
+# MidoNet
+deb http://builds.midonet.org/midonet-5.2 unstable main
+
+# MidoNet OpenStack Integration
+deb http://builds.midonet.org/openstack-mitaka unstable main
+
+# MidoNet 3rd Party Tools and Libraries
+deb http://builds.midonet.org/misc stable main

@@ -9,14 +9,14 @@ DEPS="
     apt-show-versions
     ntp
     unzip
-    unrar
     htop
     ifstat
     realpath
     tree
-    jq
-    aria2
-    ruby2.0
+    software-properties-common
+    git
+    netperf
+    nmap
     "
 
 # Install basic packages
